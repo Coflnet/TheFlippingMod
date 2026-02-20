@@ -17,3 +17,7 @@ This means you can't find the mod on Github, but we do offer it on our official 
 TFM is a Hypixel Skyblock Flipping Mod. This means it finds low priced items on the auction house & tells you which items to buy for a profit.
 
 It's simply a QOL mod to make manual flipping (finding low priced items & reselling them) easier. Good luck & happy flipping!
+
+# End of Life
+
+TPM is no longer developed, its features got integrated into the [SkyCofl mod](https://sky.coflnet.com/mod)
